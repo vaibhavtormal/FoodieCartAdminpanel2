@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textcolor">#1FC57A</color>
+    <color name="starColor">#53E88B</color>
+    <color name="endColor">#15BE77</color>
+    <color name="iconcolor">#FEAD1D</color>
+    <color name="amazon_primary">#232F3E</color>
+    <color name="amazon_primary_dark">#FFFFFFFF</color> <!-- You might need to adjust this -->
+    <color name="amazon_accent">#FF9900</color>
+</resources>

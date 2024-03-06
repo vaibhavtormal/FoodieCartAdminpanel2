@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="NameOwner" type="id" />
+    <item name="Password" type="id" />
+    <item name="textView9" type="id" />
+    <item name="imageView4" type="id" />
+    <item name="textView7" type="id" />
+    <item name="imageButton3" type="id" />
+    <item name="imageButton" type="id" />
+    <item name="textView14" type="id" />
+    <item name="MinusButton" type="id" />
+    <item name="QuantityTextView" type="id" />
+    <item name="plusButton" type="id" />
+    <item name="quantityTextView" type="id" />
+    <item name="namerestruat" type="id" />
+    <item name="Email" type="id" />
+    <item name="nameOwner" type="id" />
+    <item name="pendingOrders" type="id" />
+</resources>
